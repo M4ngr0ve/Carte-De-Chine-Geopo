@@ -1,7 +1,5 @@
     const carte = echarts.init(document.getElementById('carte'));
 
-    const BASE = location.hostname === 'localhost' ? '' : '/Carte-De-Chine-Geopo';
-
     const ZOOM_INITIAL = 4.0;
     const CENTRE       = [105, 35];
     // Limites de déplacement (longitude min/max, latitude min/max)
@@ -91,6 +89,7 @@
     let chinaProvincesJson = null;
     let paysVisibles = true;
 
+    const BASE = location.hostname === 'localhost' ? '' : '/Carte-De-Chine-Geopo';
 
     Promise.all([
       fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson').then(r => r.json()),
