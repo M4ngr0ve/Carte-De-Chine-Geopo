@@ -94,7 +94,7 @@
 
     Promise.all([
       fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson').then(r => r.json()),
-      fetch('https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json').then(r => r.json()),
+      fetch(`${BASE}/data/100000_full.json`).then(r => r.json()),.then(r => r.json()),
       fetch(`${BASE}/data/provinces.json`).then(r => r.json()),
       fetch(`${BASE}/data/pays.json`).then(r => r.json())
     ])
