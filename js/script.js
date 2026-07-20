@@ -1,6 +1,6 @@
     const carte = echarts.init(document.getElementById('carte'));
 
-    const BASE = location.hostname === 'localhost' ? '' : '/ma-carte';
+    const BASE = location.hostname === 'localhost' ? '' : '/Carte-De-Chine-Geopo';
 
     const ZOOM_INITIAL = 4.0;
     const CENTRE       = [105, 35];
