@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Chine et Asie orientale</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div id="controls">
+    <button onclick="zoomer()" title="Zoom +">+</button>
+    <button onclick="dezoomer()" title="Zoom −">−</button>
+    <div id="separateur"></div>
+    <button onclick="resetZoom()" title="Réinitialiser">⌖</button>
+    
+    <!--Filtres de la carte-->
+
+    <div id="filtres">
+      <select id="selectFiltre" onchange="appliquerFiltre()">
+        <option value="defaut">Carte par défaut</option>
+        <option value="administrative">Carte administrative</option>
+        <option value="relations">Relations diplomatiques</option>
+        <option value="militaire">Relations militaires</option>
+      </select>
+    </div>
+
+    <button id="btn-pays" onclick="togglePays()">🌍 Masquer les pays</button>
+    
+  </div>
+
+  <div id="legende">
+    <div id="legende-contenu"></div>
+  </div>
+
+  <!-- Fiche Province -->
+  <div id="fiche-province" class="fiche">
+    <button class="fiche-fermer" onclick="fermerFiches()">✕</button>
+    <div class="fiche-photo-container">
+      <img id="prov-photo" class="fiche-photo" src="" alt="" />
+      <div id="prov-photo-legende" class="fiche-photo-legende"></div>
+    </div>
+    <div class="fiche-contenu">
+      <div class="fiche-type">Province / Région</div>
+      <div id="prov-nom-chinois" class="fiche-titre"></div>
+      <div id="prov-nom-pinyin" class="fiche-sous-titre"></div>
+      <div id="prov-capitale" style="font-size:13px;color:#aaa;margin-bottom:16px;"></div>
+      <div class="fiche-stats">
+        <div class="stat-box">
+          <div class="stat-valeur" id="prov-population"></div>
+          <div class="stat-label">Population</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-valeur" id="prov-superficie"></div>
+          <div class="stat-label">Superficie</div>
+        </div>
+      </div>
+      <div class="fiche-sep"></div>
+      <div id="prov-description" class="fiche-description"></div>
+      <div class="fiche-sep"></div>
+      <div class="section-titre">Personnalités célèbres</div>
+      <div id="prov-personnalites"></div>
+    </div>
+  </div>
+
+  <!-- Fiche Pays -->
+  <div id="fiche-pays" class="fiche">
+    <button class="fiche-fermer" onclick="fermerFiches()">✕</button>
+    <div class="fiche-photo-container">
+      <img id="pays-photo" class="fiche-photo" src="" alt="" />
+      <div id="pays-photo-legende" class="fiche-photo-legende"></div>
+    </div>
+    <div class="fiche-contenu">
+      <div class="fiche-type">Pays voisin</div>
+      <div id="pays-nom" class="fiche-titre"></div>
+      <div id="pays-nom-fr" class="fiche-sous-titre"></div>
+      <div class="fiche-sep"></div>
+
+      <div class="relation-item">
+        <div class="relation-label">🗺 Frontière commune</div>
+        <div class="relation-valeur" id="pays-frontiere"></div>
+      </div>
+      <div class="relation-item">
+        <div class="relation-label">🤝 État des relations</div>
+        <div class="relation-valeur" id="pays-relations"></div>
+      </div>
+      <div class="relation-item">
+        <div class="relation-label">⚔ Coopération militaire</div>
+        <div class="relation-valeur" id="pays-militaire"></div>
+      </div>
+      <div class="relation-item">
+        <div class="relation-label">💰 Échanges commerciaux</div>
+        <div class="relation-valeur" id="pays-commerce"></div>
+      </div>
+      <div class="relation-item">
+        <div class="relation-label">🎓 Coopération universitaire</div>
+        <div class="relation-valeur" id="pays-universitaire"></div>
+      </div>
+      <div class="relation-item">
+        <div class="relation-label">👁 Perçu en Chine pour...</div>
+        <div class="relation-valeur" id="pays-perception"></div>
+      </div>
+
+      <div class="fiche-sep"></div>
+      <div class="section-titre">Synthèse des relations</div>
+      <div id="pays-synthese" class="fiche-description"></div>
+    </div>
+  </div>
+
+<!-- Fiche choix Taiwan -->
+<div id="fiche-taiwan" class="fiche">
+  <button class="fiche-fermer" onclick="fermerFicheTaiwan()">✕</button>
+  <div class="fiche-contenu">
+    <div class="fiche-type">Statut contesté</div>
+    <div class="fiche-titre">台灣 / 台湾</div>
+    <div class="fiche-sous-titre" style="margin-bottom:20px;">
+      Taïwan fait l'objet d'une dispute de souveraineté entre la République populaire de Chine et la République de Chine.
+    </div>
+    <div class="fiche-sep"></div>
+    <div class="section-titre">Choisissez une perspective</div>
+
+    <div class="personnalite" onclick="afficherTaiwanProvince()" style="cursor:pointer;">
+      <div class="perso-initiales">🇨🇳</div>
+      <div class="perso-info">
+        <div class="perso-nom">Point de vue de la RPC</div>
+        <div class="perso-desc">Taïwan comme province chinoise</div>
+      </div>
+      <div class="perso-fleche">→</div>
+    </div>
+
+    <div class="personnalite" onclick="afficherTaiwanPays()" style="cursor:pointer;">
+      <div class="perso-initiales">🇹🇼</div>
+      <div class="perso-info">
+        <div class="perso-nom">Point de vue de la République de Chine</div>
+        <div class="perso-desc">Taïwan comme entité indépendante</div>
+      </div>
+      <div class="perso-fleche">→</div>
+    </div>
+  </div>
+</div>
+
+  <div id="carte"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+
+  <script src="js/script.js"></script>
+
+</body>
+</html>

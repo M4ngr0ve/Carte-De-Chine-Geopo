@@ -1,0 +1,1196 @@
+{
+  "黑龙江省": {
+    "nomChinois": "黑龙江",
+    "pinyin": "Heilongjiang",
+    "capitale": "Harbin",
+    "population": "31,5 M",
+    "superficie": "454 000 km²",
+    "description": "Province la plus au nord, Heilongjiang jouxte la Sibérie russe. Harbin, sa capitale, est célèbre pour son Festival de sculptures sur glace et son architecture Art Nouveau d'influence russe. Forêts boréales et fleuves gelés caractérisent ses paysages.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg/1280px-Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg",
+    "photoLegende": "Festival de glace de Harbin",
+    "photoLien": "https://fr.wikipedia.org/wiki/Heilongjiang",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Fu Mingxia",
+        "desc": "Championne olympique de plongeon",
+        "lien": "https://fr.wikipedia.org/wiki/Fu_Mingxia"
+      },
+      {
+        "nom": "Xiao Hong",
+        "desc": "Écrivaine (1911–1942)",
+        "lien": "https://fr.wikipedia.org/wiki/Xiao_Hong"
+      }
+    ],
+    "centre": [
+      128,
+      48
+    ],
+    "zoom": 6
+  },
+  "广东省": {
+    "nomChinois": "广东",
+    "pinyin": "Guangdong",
+    "capitale": "Guangzhou",
+    "population": "127 M",
+    "superficie": "179 800 km²",
+    "description": "Province la plus peuplée de Chine, Guangdong est le moteur économique du pays. Guangzhou et Shenzhen sont des métropoles mondiales. La région est le berceau de la diaspora chinoise et de la cuisine cantonaise.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Guangzhou_Twin_Towers.jpg",
+    "photoLegende": "Tours jumelles de Guangzhou",
+    "photoLien": "https://fr.wikipedia.org/wiki/Guangdong",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Bruce Lee",
+        "desc": "Acteur et artiste martial",
+        "lien": "https://fr.wikipedia.org/wiki/Bruce_Lee"
+      },
+      {
+        "nom": "Sun Yat-sen",
+        "desc": "Père fondateur de la Chine moderne",
+        "lien": "https://fr.wikipedia.org/wiki/Sun_Yat-sen"
+      }
+    ],
+    "centre": [
+      113,
+      23
+    ],
+    "zoom": 7
+  },
+  "北京市": {
+    "nomChinois": "北京",
+    "pinyin": "Pékin",
+    "capitale": "Pékin",
+    "population": "21,9 M",
+    "superficie": "16 410 km²",
+    "description": "Capitale de la Chine depuis plus de 700 ans, Pékin est le centre politique et culturel du pays. La Cité interdite, la Grande Muraille et le Temple du Ciel en font l'une des villes historiques les plus riches du monde.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Beijing-forbidden4.jpg",
+    "photoLegende": "La Cité interdite",
+    "photoLien": "https://fr.wikipedia.org/wiki/P%C3%A9kin",
+    "filtres": {
+      "administrative":        { "couleur": "#77c459" }
+     },
+    "personnalites": [
+      {
+        "nom": "Yao Ming",
+        "desc": "Basketteur légendaire",
+        "lien": "https://fr.wikipedia.org/wiki/Yao_Ming"
+      },
+      {
+        "nom": "Lang Lang",
+        "desc": "Pianiste virtuose de renommée mondiale",
+        "lien": "https://fr.wikipedia.org/wiki/Lang_Lang"
+      }
+    ],
+    "centre": [
+      116.4,
+      40
+    ],
+    "zoom": 9
+  },
+  "天津市": {
+    "nomChinois": "天津",
+    "pinyin": "Tianjin",
+    "capitale": "Tianjin",
+    "population": "13,9 M",
+    "superficie": "11 917 km²",
+    "description": "Municipalité portuaire au bord du golfe de Bohai, Tianjin est un centre industriel et commercial majeur. La ville conserve un remarquable patrimoine architectural colonial et est connue pour sa Grande Roue sur la rivière Haihe.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E7%82%AB%E5%BD%A9%E6%B4%A5%E9%97%A811Tianjin_Eye_and_Haihe_River.jpg",
+    "photoLegende": "Tianjin Eye et la rivière Haihe",
+    "photoLien": "https://fr.wikipedia.org/wiki/Tianjin",
+    "filtres": {
+      "administrative":        { "couleur": "#77c459" }
+     },
+    "personnalites": [
+      {
+        "nom": "Cao Yu",
+        "desc": "Dramaturge majeur du XXe siècle",
+        "lien": "https://fr.wikipedia.org/wiki/Cao_Yu"
+      }
+    ],
+    "centre": [
+      117.2,
+      39.1
+    ],
+    "zoom": 9
+  },
+  "重庆市": {
+    "nomChinois": "重庆",
+    "pinyin": "Chóngqìng",
+    "capitale": "Chongqing (ville-préfecture directe)",
+    "population": "32,1 M",
+    "superficie": "82 400 km²",
+    "description": "Nichée au confluent du Yangzi et de la Jialing, Chongqing est la plus grande ville-préfecture directe de Chine par la superficie. Ses immeubles s'étagent sur des collines brumeuses, lui valant le surnom de « ville des montagnes ». Elle fut capitale provisoire de la République de Chine durant la Seconde Guerre mondiale et reste un verrou stratégique pour l'accès au Sichuan.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Chongqing_Nightscape.jpg",
+    "photoLegende": "Chongqing de nuit",
+    "photoLien": "https://fr.wikipedia.org/wiki/Chongqing",
+    "filtres": {
+      "administrative":        { "couleur": "#77c459" }
+     },
+    "personnalites": [
+      {
+        "nom": "Liu Xiaobo",
+        "desc": "Prix Nobel de la paix 2010 (1955–2017)",
+        "lien": "https://fr.wikipedia.org/wiki/Liu_Xiaobo"
+      },
+      {
+        "nom": "He Yifan",
+        "desc": "Championne du monde d'échecs",
+        "lien": "https://fr.wikipedia.org/wiki/He_Yifan"
+      },
+      {
+        "nom": "Deng Xiaoping",
+        "desc": "Dirigeant réformateur, né au Sichuan voisin",
+        "lien": "https://fr.wikipedia.org/wiki/Deng_Xiaoping"
+      }
+    ],
+    "centre": [
+      106.5,
+      29.6
+    ],
+    "zoom": 6
+  },
+  "河北省": {
+    "nomChinois": "河北",
+    "pinyin": "Héběi",
+    "capitale": "Shijiazhuang",
+    "population": "74,6 M",
+    "superficie": "188 800 km²",
+    "description": "Encerclant Pékin et Tianjin, le Hebei est le bouclier historique de la capitale. La Grande Muraille y serpente sur des centaines de kilomètres, notamment à Shanhaiguan où elle rejoint la mer. La province abrite aussi Chengde, ancienne résidence d'été impériale classée au patrimoine mondial de l'UNESCO.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/20090529_Great_Wall_8185.jpg",
+    "photoLegende": "La Grande Muraille à Jinshanling",
+    "photoLien": "https://fr.wikipedia.org/wiki/Hebei",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zhao Ziyang",
+        "desc": "Secrétaire général du PCC (1919–2005)",
+        "lien": "https://fr.wikipedia.org/wiki/Zhao_Ziyang"
+      },
+      {
+        "nom": "Li Hongzhi",
+        "desc": "Fondateur du mouvement Falun Gong",
+        "lien": "https://fr.wikipedia.org/wiki/Li_Hongzhi"
+      },
+      {
+        "nom": "Zhang Guimei",
+        "desc": "Directrice d'école, héroïne nationale contemporaine",
+        "lien": "https://fr.wikipedia.org/wiki/Hebei"
+      }
+    ],
+    "centre": [
+      115.5,
+      38.5
+    ],
+    "zoom": 6
+  },
+  "山西省": {
+    "nomChinois": "山西",
+    "pinyin": "Shānxī",
+    "capitale": "Taiyuan",
+    "population": "34,9 M",
+    "superficie": "156 700 km²",
+    "description": "Berceau de la civilisation chinoise, le Shanxi recèle une densité exceptionnelle de sites historiques : temples bouddhistes millénaires, grottes de Yungang inscrites à l'UNESCO, et cités marchandes fortifiées comme Pingyao. Première province charbonnière de Chine, elle joue un rôle crucial dans l'énergie nationale.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pingyao%2C_China_Bebop_Drone_2015-09-19T144459%2B0000_21552B.jpg",
+    "photoLegende": "Les remparts de Pingyao",
+    "photoLien": "https://fr.wikipedia.org/wiki/Shanxi",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Wu Zetian",
+        "desc": "Seule impératrice régnante de l'histoire chinoise (624–705)",
+        "lien": "https://fr.wikipedia.org/wiki/Wu_Zetian"
+      },
+      {
+        "nom": "Bo Yibo",
+        "desc": "Dirigeant communiste historique (1908–2007)",
+        "lien": "https://fr.wikipedia.org/wiki/Bo_Yibo"
+      },
+      {
+        "nom": "Guan Yu",
+        "desc": "Général des Trois Royaumes, dieu de la guerre",
+        "lien": "https://fr.wikipedia.org/wiki/Guan_Yu"
+      }
+    ],
+    "centre": [
+      112.5,
+      37.5
+    ],
+    "zoom": 6
+  },
+  "辽宁省": {
+    "nomChinois": "辽宁",
+    "pinyin": "Liáoníng",
+    "capitale": "Shenyang",
+    "population": "42,6 M",
+    "superficie": "148 000 km²",
+    "description": "Porte d'entrée de la Mandchourie, le Liaoning est le cœur industriel du nord-est chinois. Shenyang abrite le Palais impérial mandchou, précurseur de la Cité interdite. Dalian, sa façade maritime, est un port moderne ouvert sur la mer Jaune et la mer du Japon.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Shenyang_Imperial_Palace_Museum_24367-Shenyang_%2849052231446%29.jpg",
+    "photoLegende": "Le Palais impérial de Shenyang",
+    "photoLien": "https://fr.wikipedia.org/wiki/Liaoning",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zhang Zuolin",
+        "desc": "Seigneur de guerre de Mandchourie (1875–1928)",
+        "lien": "https://fr.wikipedia.org/wiki/Zhang_Zuolin"
+      },
+      {
+        "nom": "Xing Huina",
+        "desc": "Championne olympique de fond (2004)",
+        "lien": "https://fr.wikipedia.org/wiki/Xing_Huina"
+      },
+      {
+        "nom": "Sun Li",
+        "desc": "Actrice, star des dramas chinois",
+        "lien": "https://fr.wikipedia.org/wiki/Sun_Li_(actrice)"
+      }
+    ],
+    "centre": [
+      122.5,
+      41.5
+    ],
+    "zoom": 6
+  },
+  "吉林省": {
+    "nomChinois": "吉林",
+    "pinyin": "Jílín",
+    "capitale": "Changchun",
+    "population": "24,1 M",
+    "superficie": "187 400 km²",
+    "description": "Au cœur de la Mandchourie, le Jilin partage sa frontière avec la Corée du Nord et la Russie. Ses forêts de pins couverts de givre en hiver sont célèbres dans toute la Chine. Le mont Changbai, volcan sacré au cratère occupé par le lac Tianchi, est le point culminant de la province et un lieu de pèlerinage pour les Coréens des deux rives.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Heaven_Lake%2C_Changbai.jpg",
+    "photoLegende": "Le lac Tianchi sur le mont Changbai",
+    "photoLien": "https://fr.wikipedia.org/wiki/Jilin",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Pu Yi",
+        "desc": "Dernier empereur de Chine (1906–1967)",
+        "lien": "https://fr.wikipedia.org/wiki/Pu_Yi"
+      },
+      {
+        "nom": "Wang Meng",
+        "desc": "Quadruple championne olympique de patinage",
+        "lien": "https://fr.wikipedia.org/wiki/Wang_Meng_(patinage)"
+      },
+      {
+        "nom": "Li Ning",
+        "desc": "Gymnaste légendaire, triple champion olympique 1984",
+        "lien": "https://fr.wikipedia.org/wiki/Li_Ning"
+      }
+    ],
+    "centre": [
+      126.5,
+      43.5
+    ],
+    "zoom": 6
+  },
+  "江苏省": {
+    "nomChinois": "江苏",
+    "pinyin": "Jiāngsū",
+    "capitale": "Nanjing",
+    "population": "85,1 M",
+    "superficie": "102 600 km²",
+    "description": "Province la plus prospère du delta du Yangzi, le Jiangsu concentre villes historiques et industrie de pointe. Nanjing, ancienne capitale impériale, abrite le mausolée de Sun Yat-sen. Suzhou, la « Venise de l'Orient », est célèbre pour ses jardins classiques inscrits à l'UNESCO. Le Jiangsu est aujourd'hui l'une des provinces les plus riches du pays.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/04/20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg",
+    "photoLegende": "Le jardin de l'Humble Administrateur à Suzhou",
+    "photoLien": "https://fr.wikipedia.org/wiki/Jiangsu",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zhu Yuanzhang",
+        "desc": "Fondateur de la dynastie Ming (1328–1398)",
+        "lien": "https://fr.wikipedia.org/wiki/Hongwu"
+      },
+      {
+        "nom": "Liu Xiang",
+        "desc": "Champion olympique du 110 m haies (2004)",
+        "lien": "https://fr.wikipedia.org/wiki/Liu_Xiang"
+      },
+      {
+        "nom": "Bi Sheng",
+        "desc": "Inventeur de l'imprimerie à caractères mobiles",
+        "lien": "https://fr.wikipedia.org/wiki/Bi_Sheng"
+      }
+    ],
+    "centre": [
+      119.5,
+      32.5
+    ],
+    "zoom": 6
+  },
+  "浙江省": {
+    "nomChinois": "浙江",
+    "pinyin": "Zhèjiāng",
+    "capitale": "Hangzhou",
+    "population": "64,6 M",
+    "superficie": "101 800 km²",
+    "description": "Berceau du commerce et de la soie, le Zhejiang est aujourd'hui l'une des provinces les plus dynamiques de Chine. Hangzhou, sa capitale, est réputée pour le lac de l'Ouest, joyau romantique chanté par les poètes. La province abrite aussi Alibaba, géant mondial du e-commerce fondé par Jack Ma.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/00/West_Lake_2025.06_02.jpg",
+    "photoLegende": "Le lac de l'Ouest à Hangzhou",
+    "photoLien": "https://fr.wikipedia.org/wiki/Zhejiang",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Jack Ma",
+        "desc": "Fondateur d'Alibaba, entrepreneur mondial",
+        "lien": "https://fr.wikipedia.org/wiki/Jack_Ma"
+      },
+      {
+        "nom": "Wang Xizhi",
+        "desc": "Calligraphe, « Sage de la calligraphie » (303–361)",
+        "lien": "https://fr.wikipedia.org/wiki/Wang_Xizhi"
+      },
+      {
+        "nom": "Lu Xun",
+        "desc": "Écrivain, né à Shaoxing (1881–1936)",
+        "lien": "https://fr.wikipedia.org/wiki/Lu_Xun"
+      }
+    ],
+    "centre": [
+      120.2,
+      29.1
+    ],
+    "zoom": 6
+  },
+  "安徽省": {
+    "nomChinois": "安徽",
+    "pinyin": "Ānhuī",
+    "capitale": "Hefei",
+    "population": "61,0 M",
+    "superficie": "139 600 km²",
+    "description": "L'Anhui est célèbre pour ses paysages spectaculaires : les pics granitiques du mont Huangshan, couverts de pins tordus et de nuages, ont inspiré la peinture chinoise classique. Les villages de Hongcun et Xidi, aux maisons blanches à murs noirs, sont inscrits au patrimoine mondial de l'UNESCO.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/00/HuangShan.JPG",
+    "photoLegende": "Les pics du mont Huangshan",
+    "photoLien": "https://fr.wikipedia.org/wiki/Anhui",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zhuangzi",
+        "desc": "Philosophe taoïste (env. 369–286 av. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Zhuangzi"
+      },
+      {
+        "nom": "Hu Shi",
+        "desc": "Intellectuel et réformateur libéral (1891–1962)",
+        "lien": "https://fr.wikipedia.org/wiki/Hu_Shi"
+      },
+      {
+        "nom": "Deng Xiaoping",
+        "desc": "Architecte de la réforme économique (1904–1997)",
+        "lien": "https://fr.wikipedia.org/wiki/Deng_Xiaoping"
+      }
+    ],
+    "centre": [
+      117.3,
+      31.8
+    ],
+    "zoom": 6
+  },
+  "福建省": {
+    "nomChinois": "福建",
+    "pinyin": "Fújiàn",
+    "capitale": "Fuzhou",
+    "population": "41,5 M",
+    "superficie": "121 400 km²",
+    "description": "Province côtière tournée vers la mer, le Fujian est la région d'origine de la majorité des Chinois d'outre-mer. Ses tulou, grandes demeures circulaires en terre des Hakkas, sont inscrites à l'UNESCO. Xiamen, avec son île de Gulangyu et son architecture coloniale, est l'une des villes les plus pittoresques de la côte Est.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Snail_pit_tulou.jpg",
+    "photoLegende": "Les tulou hakkas du Fujian",
+    "photoLien": "https://fr.wikipedia.org/wiki/Fujian",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zheng He",
+        "desc": "Grand amiral des expéditions maritimes (1371–1433)",
+        "lien": "https://fr.wikipedia.org/wiki/Zheng_He"
+      },
+      {
+        "nom": "Lin Zexu",
+        "desc": "Commissaire impérial, héros de la résistance à l'opium",
+        "lien": "https://fr.wikipedia.org/wiki/Lin_Zexu"
+      },
+      {
+        "nom": "Cai Yuanpei",
+        "desc": "Pédagogue, réformateur de l'université de Pékin",
+        "lien": "https://fr.wikipedia.org/wiki/Cai_Yuanpei"
+      }
+    ],
+    "centre": [
+      118,
+      26
+    ],
+    "zoom": 6
+  },
+  "江西省": {
+    "nomChinois": "江西",
+    "pinyin": "Jiāngxī",
+    "capitale": "Nanchang",
+    "population": "45,2 M",
+    "superficie": "166 900 km²",
+    "description": "Jingdezhen, « capitale mondiale de la porcelaine », produit depuis mille ans la céramique la plus raffinée de Chine. Le Jiangxi est aussi célèbre pour le mont Lu (Lushan), site d'inspiration poétique millénaire, et pour Jinggang Shan, berceau de la guérilla maoïste dans les années 1920.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mount_Lu_16158-Lushan_%2849052568687%29.jpg",
+    "photoLegende": "Le mont Lushan",
+    "photoLien": "https://fr.wikipedia.org/wiki/Jiangxi",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Ouyang Xiu",
+        "desc": "Poète et historien de la dynastie Song (1007–1072)",
+        "lien": "https://fr.wikipedia.org/wiki/Ouyang_Xiu"
+      },
+      {
+        "nom": "Tang Xianzu",
+        "desc": "Dramaturge, « Shakespeare chinois » (1550–1616)",
+        "lien": "https://fr.wikipedia.org/wiki/Tang_Xianzu"
+      },
+      {
+        "nom": "Fang Zhimin",
+        "desc": "Révolutionnaire communiste (1899–1935)",
+        "lien": "https://fr.wikipedia.org/wiki/Fang_Zhimin"
+      }
+    ],
+    "centre": [
+      115.9,
+      27.6
+    ],
+    "zoom": 6
+  },
+  "山东省": {
+    "nomChinois": "山东",
+    "pinyin": "Shāndōng",
+    "capitale": "Ji'nan",
+    "population": "101,5 M",
+    "superficie": "157 100 km²",
+    "description": "Terre natale de Confucius et Mencius, le Shandong est le berceau de la pensée confucéenne. Qufu abrite le temple, le cimetière et la résidence de Confucius, classés à l'UNESCO. Le mont Tai, montagne sacrée entre toutes, est le lieu de pèlerinage impérial le plus vénéré de Chine.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/74/%E6%B3%B0%E5%B1%B1_%E5%8D%97%E5%A4%A9%E9%97%A8.jpg",
+    "photoLegende": "L'escalier du mont Tai",
+    "photoLien": "https://fr.wikipedia.org/wiki/Shandong",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Confucius",
+        "desc": "Philosophe fondateur du confucianisme (551–479 av. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Confucius"
+      },
+      {
+        "nom": "Mencius",
+        "desc": "Philosophe confucéen (env. 372–289 av. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Mencius"
+      },
+      {
+        "nom": "Mo Yan",
+        "desc": "Romancier, Prix Nobel de littérature 2012",
+        "lien": "https://fr.wikipedia.org/wiki/Mo_Yan"
+      }
+    ],
+    "centre": [
+      118,
+      36.5
+    ],
+    "zoom": 6
+  },
+  "河南省": {
+    "nomChinois": "河南",
+    "pinyin": "Hénán",
+    "capitale": "Zhengzhou",
+    "population": "99,4 M",
+    "superficie": "167 000 km²",
+    "description": "Cœur de la civilisation chinoise antique, le Henan a vu naître plusieurs des premières dynasties du pays. Luoyang et Kaifeng furent capitales impériales. Les grottes de Longmen, avec leurs milliers de bouddhas sculptés, sont inscrites à l'UNESCO. Le temple Shaolin, berceau de l'art martial kung-fu, y attire des pèlerins du monde entier.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Longmen_Grottoes_3.jpg",
+    "photoLegende": "Le Grand Bouddha Vairocana des grottes de Longmen",
+    "photoLien": "https://fr.wikipedia.org/wiki/Henan",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Du Fu",
+        "desc": "Poète de la dynastie Tang (712–770)",
+        "lien": "https://fr.wikipedia.org/wiki/Du_Fu"
+      },
+      {
+        "nom": "Bodhidharma",
+        "desc": "Fondateur légendaire du bouddhisme Chan",
+        "lien": "https://fr.wikipedia.org/wiki/Bodhidharma"
+      },
+      {
+        "nom": "Deng Xiaoping",
+        "desc": "Dirigeant réformateur de la Chine moderne",
+        "lien": "https://fr.wikipedia.org/wiki/Deng_Xiaoping"
+      }
+    ],
+    "centre": [
+      113.6,
+      33.9
+    ],
+    "zoom": 6
+  },
+  "湖北省": {
+    "nomChinois": "湖北",
+    "pinyin": "Húběi",
+    "capitale": "Wuhan",
+    "population": "57,8 M",
+    "superficie": "185 900 km²",
+    "description": "Verrou stratégique au centre de la Chine, le Hubei est traversé par le Yangzi. Wuhan, sa capitale, est la plus grande ville de Chine centrale. Le barrage des Trois-Gorges, à cheval sur le Hubei et le Chongqing, est le plus grand ouvrage hydroélectrique au monde. Les Gorges du Yangzi offrent des paysages à couper le souffle.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/ThreeGorgesDam-China2009.jpg",
+    "photoLegende": "Le barrage des Trois-Gorges",
+    "photoLien": "https://fr.wikipedia.org/wiki/Hubei",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Li Bai",
+        "desc": "Poète taoïste de la dynastie Tang (701–762)",
+        "lien": "https://fr.wikipedia.org/wiki/Li_Bai"
+      },
+      {
+        "nom": "Mao Zedong",
+        "desc": "Fondateur de la République populaire de Chine",
+        "lien": "https://fr.wikipedia.org/wiki/Mao_Zedong"
+      },
+      {
+        "nom": "Yang Liwei",
+        "desc": "Premier taïkonaute chinois (2003)",
+        "lien": "https://fr.wikipedia.org/wiki/Yang_Liwei"
+      }
+    ],
+    "centre": [
+      112.3,
+      31
+    ],
+    "zoom": 6
+  },
+  "湖南省": {
+    "nomChinois": "湖南",
+    "pinyin": "Húnán",
+    "capitale": "Changsha",
+    "population": "66,4 M",
+    "superficie": "211 800 km²",
+    "description": "Terre natale de Mao Zedong, le Hunan est une province au relief accidenté et à la culture forte. Les piliers de grès de Zhangjiajie, devenus célèbres comme inspiration des montagnes flottantes d'Avatar, en font un haut lieu du tourisme mondial. Le lac Dongting, deuxième lac de Chine, structure son paysage lacustre.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg/3840px-1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
+    "photoLegende": "Les piliers de Zhangjiajie",
+    "photoLien": "https://fr.wikipedia.org/wiki/Hunan",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Mao Zedong",
+        "desc": "Fondateur de la République populaire (1893–1976)",
+        "lien": "https://fr.wikipedia.org/wiki/Mao_Zedong"
+      },
+      {
+        "nom": "Liu Shaoqi",
+        "desc": "Président de la République populaire (1898–1969)",
+        "lien": "https://fr.wikipedia.org/wiki/Liu_Shaoqi"
+      },
+      {
+        "nom": "Zeng Guofan",
+        "desc": "Général et lettré de la dynastie Qing (1811–1872)",
+        "lien": "https://fr.wikipedia.org/wiki/Zeng_Guofan"
+      }
+    ],
+    "centre": [
+      111.7,
+      27.6
+    ],
+    "zoom": 6
+  },
+  "海南省": {
+    "nomChinois": "海南",
+    "pinyin": "Hǎinán",
+    "capitale": "Haikou",
+    "population": "10,1 M",
+    "superficie": "35 400 km²",
+    "description": "Île tropicale au sud de la Chine, Hainan est surnommée le « Hawaii chinois ». Ses plages de Sanya attirent chaque année des millions de touristes. La province abrite aussi le parc spatial de Wenchang, d'où sont lancées les missions lunaires et spatiales chinoises. Son centre montagneux, habité par les minorités Li et Miao, conserve une culture ancestrale.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dadonghai_Beach%2C_Sanya%2C_Hainan_Island_%2810098679085%29.jpg",
+    "photoLegende": "La plage de Sanya",
+    "photoLien": "https://fr.wikipedia.org/wiki/Ha%C3%AFnan",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Su Dongpo",
+        "desc": "Poète de la dynastie Song, exilé à Hainan (1037–1101)",
+        "lien": "https://fr.wikipedia.org/wiki/Su_Shi"
+      },
+      {
+        "nom": "Song Qingling",
+        "desc": "Épouse de Sun Yat-sen, vice-présidente de la RPC",
+        "lien": "https://fr.wikipedia.org/wiki/Song_Qingling"
+      },
+      {
+        "nom": "Hai Rui",
+        "desc": "Fonctionnaire intègre de la dynastie Ming",
+        "lien": "https://fr.wikipedia.org/wiki/Hai_Rui"
+      }
+    ],
+    "centre": [
+      109.7,
+      19.2
+    ],
+    "zoom": 7
+  },
+  "四川省": {
+    "nomChinois": "四川",
+    "pinyin": "Sìchuān",
+    "capitale": "Chengdu",
+    "population": "83,7 M",
+    "superficie": "485 000 km²",
+    "description": "Le « pays du ciel » abrite les pandas géants dans leurs réserves naturelles et un patrimoine gastronomique pimenté mondialement reconnu. Chengdu, capitale détendue, est la grande métropole de l'Ouest chinois. Les falaises du mont Emei et le Bouddha géant de Leshan, le plus grand du monde, sont inscrits à l'UNESCO.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Leshan_Giant_Buddha_03.2025_1.jpg/1280px-Leshan_Giant_Buddha_03.2025_1.jpg",
+    "photoLegende": "Le Bouddha géant de Leshan",
+    "photoLien": "https://fr.wikipedia.org/wiki/Sichuan",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Deng Xiaoping",
+        "desc": "Architecte de la Chine moderne, né à Guang'an (1904–1997)",
+        "lien": "https://fr.wikipedia.org/wiki/Deng_Xiaoping"
+      },
+      {
+        "nom": "Li Bai",
+        "desc": "Grand poète de la Tang, né au Sichuan (701–762)",
+        "lien": "https://fr.wikipedia.org/wiki/Li_Bai"
+      },
+      {
+        "nom": "Liu Bei",
+        "desc": "Souverain du Shu Han (161–223 apr. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Liu_Bei"
+      }
+    ],
+    "centre": [
+      102.7,
+      30.5
+    ],
+    "zoom": 6
+  },
+  "贵州省": {
+    "nomChinois": "贵州",
+    "pinyin": "Guìzhōu",
+    "capitale": "Guiyang",
+    "population": "38,6 M",
+    "superficie": "176 200 km²",
+    "description": "Province montagneuse au relief karstique spectaculaire, le Guizhou est l'une des régions les plus ethniquement diversifiées de Chine, abritant une cinquantaine de minorités dont les Miao et les Buyi. Les chutes de Huangguoshu, les plus grandes de Chine, et les villages traditionnels en font une destination touristique en plein essor. C'est aussi la patrie du Maotai, célèbre alcool d'État.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Yinlianzhuitan_HuangguoshuFall.jpg",
+    "photoLegende": "Les chutes de Huangguoshu",
+    "photoLien": "https://fr.wikipedia.org/wiki/Guizhou",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Wang Yangming",
+        "desc": "Philosophe néo-confucéen (1472–1529)",
+        "lien": "https://fr.wikipedia.org/wiki/Wang_Yangming"
+      },
+      {
+        "nom": "Ding Ling",
+        "desc": "Écrivaine féministe (1904–1986)",
+        "lien": "https://fr.wikipedia.org/wiki/Ding_Ling"
+      },
+      {
+        "nom": "Mo Yan",
+        "desc": "Prix Nobel de littérature 2012",
+        "lien": "https://fr.wikipedia.org/wiki/Mo_Yan"
+      }
+    ],
+    "centre": [
+      106.7,
+      26.6
+    ],
+    "zoom": 6
+  },
+  "云南省": {
+    "nomChinois": "云南",
+    "pinyin": "Yúnnán",
+    "capitale": "Kunming",
+    "population": "47,2 M",
+    "superficie": "394 100 km²",
+    "description": "Province aux mille ethnies, le Yunnan est la région la plus biodiversifiée de Chine. À la croisée des routes de la soie et du thé, il partage ses frontières avec le Myanmar, le Laos et le Vietnam. Lijiang, vieille ville naxi, et les rizières en terrasses de Yuanyang sont inscrites à l'UNESCO. Kunming jouit d'un printemps éternel.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg",
+    "photoLegende": "La vieille ville de Lijiang",
+    "photoLien": "https://fr.wikipedia.org/wiki/Yunnan",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zheng He",
+        "desc": "Amiral des grandes expéditions maritimes (1371–1433)",
+        "lien": "https://fr.wikipedia.org/wiki/Zheng_He"
+      },
+      {
+        "nom": "Ai Weiwei",
+        "desc": "Artiste dissident contemporain",
+        "lien": "https://fr.wikipedia.org/wiki/Ai_Weiwei"
+      },
+      {
+        "nom": "Long Yun",
+        "desc": "Gouverneur militaire du Yunnan (1888–1962)",
+        "lien": "https://fr.wikipedia.org/wiki/Long_Yun"
+      }
+    ],
+    "centre": [
+      101.5,
+      24.5
+    ],
+    "zoom": 6
+  },
+  "陕西省": {
+    "nomChinois": "陕西",
+    "pinyin": "Shǎnxī",
+    "capitale": "Xi'an",
+    "population": "39,5 M",
+    "superficie": "205 600 km²",
+    "description": "Berceau de la civilisation chinoise, le Shaanxi a vu naître dix dynasties impériales. Xi'an, l'ancienne Chang'an, fut la capitale la plus longtemps occupée de l'histoire chinoise et le terminus oriental de la Route de la Soie. L'armée de terre cuite de l'empereur Qin Shi Huang, découverte en 1974, est l'une des merveilles archéologiques du monde.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Arm%C3%A9e_de_terre_cuite%2C_fouille_du_tombeau_de_l%27empereur_Qin%2C_Xi%27an.jpg",
+    "photoLegende": "L'armée de terre cuite de Xi'an",
+    "photoLien": "https://fr.wikipedia.org/wiki/Shaanxi",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Qin Shi Huang",
+        "desc": "Premier empereur de Chine (259–210 av. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Qin_Shi_Huang"
+      },
+      {
+        "nom": "Sima Qian",
+        "desc": "Père de l'historiographie chinoise (145–86 av. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Sima_Qian"
+      },
+      {
+        "nom": "Du Fu",
+        "desc": "Poète classique de la Tang (712–770)",
+        "lien": "https://fr.wikipedia.org/wiki/Du_Fu"
+      }
+    ],
+    "centre": [
+      108.9,
+      35.2
+    ],
+    "zoom": 6
+  },
+  "甘肃省": {
+    "nomChinois": "甘肃",
+    "pinyin": "Gānsù",
+    "capitale": "Lanzhou",
+    "population": "25,0 M",
+    "superficie": "454 400 km²",
+    "description": "Couloir naturel entre la Chine centrale et l'Asie centrale, le Gansu est le corridor de la Route de la Soie. Dunhuang abrite les grottes de Mogao, trésor mondial de peintures et sculptures bouddhistes couvrant dix siècles d'art. Le désert de Gobi et les dunes de Mingsha offrent des paysages grandioses.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mogao_Caves_%2842320332841%29.jpg",
+    "photoLegende": "Les grottes de Mogao à Dunhuang",
+    "photoLien": "https://fr.wikipedia.org/wiki/Gansu",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Zhang Qian",
+        "desc": "Explorateur, pionnier de la Route de la Soie (IIe s. av. J.-C.)",
+        "lien": "https://fr.wikipedia.org/wiki/Zhang_Qian"
+      },
+      {
+        "nom": "Lin Zexu",
+        "desc": "Commissaire impérial contre l'opium, exilé au Gansu",
+        "lien": "https://fr.wikipedia.org/wiki/Lin_Zexu"
+      },
+      {
+        "nom": "Zuo Zongtang",
+        "desc": "Général Qing, « Gordon chinois » (1812–1885)",
+        "lien": "https://fr.wikipedia.org/wiki/Zuo_Zongtang"
+      }
+    ],
+    "centre": [
+      104,
+      38.5
+    ],
+    "zoom": 5
+  },
+  "青海省": {
+    "nomChinois": "青海",
+    "pinyin": "Qīnghǎi",
+    "capitale": "Xining",
+    "population": "5,9 M",
+    "superficie": "722 300 km²",
+    "description": "Troisième plus grande province de Chine par la superficie, le Qinghai est le « château d'eau de l'Asie » : le Yangzi, le Fleuve Jaune et le Mékong y prennent leur source. Le lac Qinghai, le plus grand lac salé de Chine, est un spectacle naturel à couper le souffle. Le plateau tibétain qui le constitue culmine en moyenne à plus de 3 000 mètres.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/QinghaiHu1.jpg",
+    "photoLegende": "Le lac Qinghai",
+    "photoLien": "https://fr.wikipedia.org/wiki/Qinghai",
+    "filtres": {
+      "administrative":        { "couleur": "#ff6868" }
+     },
+    "personnalites": [
+      {
+        "nom": "Tsongkhapa",
+        "desc": "Réformateur bouddhiste, fondateur du courant Gelug (1357–1419)",
+        "lien": "https://fr.wikipedia.org/wiki/Tsongkhapa"
+      },
+      {
+        "nom": "Ge Junnian",
+        "desc": "Romancier contemporain né à Xining",
+        "lien": "https://fr.wikipedia.org/wiki/Qinghai"
+      },
+      {
+        "nom": "Namri Songtsen",
+        "desc": "Roi du Tibet, père de Songtsen Gampo",
+        "lien": "https://fr.wikipedia.org/wiki/Namri_Songtsen"
+      }
+    ],
+    "centre": [
+      96,
+      35.5
+    ],
+    "zoom": 5
+  },
+  "内蒙古自治区": {
+    "nomChinois": "内蒙古",
+    "pinyin": "Nèi Měnggǔ",
+    "capitale": "Hohhot",
+    "population": "24,0 M",
+    "superficie": "1 183 000 km²",
+    "description": "Vaste région autonome couvrant toute la frontière nord avec la Mongolie, la Mongolie intérieure est un océan de steppes et de déserts. Les Mongols y perpétuent une culture nomade : yourtes, festival Naadam, élevage de chevaux. Le désert de Gobi y étend ses dunes dorées. Hohhot, sa capitale, abrite de nombreux temples tibétains et mongols.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Hulunbuir_Grasslands%2C_Inner_Mongolia_-_9758734754.jpg",
+    "photoLegende": "La steppe de Hulunbuir",
+    "photoLien": "https://fr.wikipedia.org/wiki/Mongolie-Int%C3%A9rieure",
+    "filtres": {
+      "administrative":        { "couleur": "#fcff5c" }
+     },
+    "personnalites": [
+      {
+        "nom": "Gengis Khan",
+        "desc": "Fondateur de l'Empire mongol (1162–1227)",
+        "lien": "https://fr.wikipedia.org/wiki/Gengis_Khan"
+      },
+      {
+        "nom": "Ulanhu",
+        "desc": "Premier dirigeant de la région autonome (1906–1988)",
+        "lien": "https://fr.wikipedia.org/wiki/Ulanhu"
+      },
+      {
+        "nom": "Temüjin",
+        "desc": "Nom de naissance de Gengis Khan",
+        "lien": "https://fr.wikipedia.org/wiki/Gengis_Khan"
+      }
+    ],
+    "centre": [
+      112,
+      43
+    ],
+    "zoom": 4
+  },
+  "广西壮族自治区": {
+    "nomChinois": "广西",
+    "pinyin": "Guǎngxī",
+    "capitale": "Nanning",
+    "population": "50,1 M",
+    "superficie": "236 700 km²",
+    "description": "Région autonome des Zhuang, le peuple non-Han le plus nombreux de Chine, le Guangxi est célèbre pour ses paysages karstiques à couper le souffle. Les pics calcaires de Guilin et la rivière Li, navigués en barque parmi les montagnes, figurent parmi les paysages les plus reproduits du monde. La région partage une longue frontière avec le Viêt Nam.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dragon_bridge_-_Yulong_River-Guilin._-_panoramio.jpg/1280px-Dragon_bridge_-_Yulong_River-Guilin._-_panoramio.jpg",
+    "photoLegende": "La rivière Li à Guilin",
+    "photoLien": "https://fr.wikipedia.org/wiki/Guangxi",
+    "filtres": {
+      "administrative":        { "couleur": "#fcff5c" }
+     },
+    "personnalites": [
+      {
+        "nom": "Hong Xiuquan",
+        "desc": "Chef de la rébellion Taiping (1814–1864)",
+        "lien": "https://fr.wikipedia.org/wiki/Hong_Xiuquan"
+      },
+      {
+        "nom": "Wei Yuanyi",
+        "desc": "Poète de la langue zhuang",
+        "lien": "https://fr.wikipedia.org/wiki/Guangxi"
+      },
+      {
+        "nom": "Liu Sanjie",
+        "desc": "Chanteuse légendaire zhuang, figure du folklore",
+        "lien": "https://fr.wikipedia.org/wiki/Liu_Sanjie"
+      }
+    ],
+    "centre": [
+      108.3,
+      23.7
+    ],
+    "zoom": 6
+  },
+  "西藏自治区": {
+    "nomChinois": "西藏",
+    "pinyin": "Xīzàng",
+    "capitale": "Lhassa",
+    "population": "3,6 M",
+    "superficie": "1 228 400 km²",
+    "description": "« Toit du monde », le Tibet s'étend sur le plus haut plateau de la planète, à plus de 4 500 m d'altitude en moyenne. Lhassa, sa capitale spirituelle, abrite le palais du Potala, résidence historique des dalaï-lamas, inscrit à l'UNESCO. Le mont Everest, point culminant de la Terre, se dresse à sa frontière népalaise.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%E5%B8%83%E8%BE%BE%E6%8B%89%E5%AE%AB.jpg",
+    "photoLegende": "Le palais du Potala à Lhassa",
+    "photoLien": "https://fr.wikipedia.org/wiki/Tibet_(r%C3%A9gion_autonome)",
+    "filtres": {
+      "administrative":        { "couleur": "#fcff5c" }
+     },
+    "personnalites": [
+      {
+        "nom": "Dalaï-Lama XIV",
+        "desc": "Chef spirituel du bouddhisme tibétain, Prix Nobel de la paix 1989",
+        "lien": "https://fr.wikipedia.org/wiki/Tenzin_Gyatso"
+      },
+      {
+        "nom": "Milarepa",
+        "desc": "Saint et poète bouddhiste (1052–1135)",
+        "lien": "https://fr.wikipedia.org/wiki/Milarepa"
+      },
+      {
+        "nom": "Songtsen Gampo",
+        "desc": "Roi unificateur du Tibet (617–650)",
+        "lien": "https://fr.wikipedia.org/wiki/Songtsen_Gampo"
+      }
+    ],
+    "centre": [
+      88,
+      31.5
+    ],
+    "zoom": 5
+  },
+  "宁夏回族自治区": {
+    "nomChinois": "宁夏",
+    "pinyin": "Níngxià",
+    "capitale": "Yinchuan",
+    "population": "7,2 M",
+    "superficie": "66 400 km²",
+    "description": "Petite région autonome des Hui, Chinois musulmans, le Ningxia est un carrefour entre la Chine des Han et l'islam central-asiatique. Ses mosquées chinoises à toits courbés sont une synthèse architecturale unique. Les tombeaux des rois Xi Xia à Yinchuan, surnommés les « pyramides de l'Orient », évoquent le royaume tangoute médiéval.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Xi_Xia_Imperial_Tombs_%2854154641924%29.jpg",
+    "photoLegende": "Les tombeaux des rois Xi Xia",
+    "photoLien": "https://fr.wikipedia.org/wiki/Ningxia",
+    "filtres": {
+      "administrative":        { "couleur": "#fcff5c" }
+     },
+    "personnalites": [
+      {
+        "nom": "Li Yuanhao",
+        "desc": "Fondateur de l'Empire Xi Xia (1003–1048)",
+        "lien": "https://fr.wikipedia.org/wiki/Li_Yuanhao"
+      },
+      {
+        "nom": "Zhang Xianliang",
+        "desc": "Romancier né à Nanjing, longtemps emprisonné au Ningxia",
+        "lien": "https://fr.wikipedia.org/wiki/Zhang_Xianliang"
+      },
+      {
+        "nom": "Ma Bufang",
+        "desc": "Seigneur de guerre musulman du nord-ouest (1903–1975)",
+        "lien": "https://fr.wikipedia.org/wiki/Ma_Bufang"
+      }
+    ],
+    "centre": [
+      106.2,
+      37.5
+    ],
+    "zoom": 7
+  },
+  "新疆维吾尔自治区": {
+    "nomChinois": "新疆",
+    "pinyin": "Xīnjiāng",
+    "capitale": "Ürümqi",
+    "population": "25,9 M",
+    "superficie": "1 664 900 km²",
+    "description": "Plus grande région administrative de Chine, le Xinjiang est un carrefour d'empires et de civilisations. La Route de la Soie y serpentait autour du désert du Taklamakan, l'un des plus grands déserts de sable du monde. Kashgar, oasis millénaire, conserve un bazar ouïghour parmi les plus vivants d'Asie centrale. Les monts Tianshan traversent la région du centre.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kashgar_china.jpg",
+    "photoLegende": "Le bazar de Kashgar",
+    "photoLien": "https://fr.wikipedia.org/wiki/Xinjiang",
+    "filtres": {
+      "administrative":        { "couleur": "#fcff5c" }
+     },
+    "personnalites": [
+      {
+        "nom": "Mahmud Kashgari",
+        "desc": "Linguiste et géographe turcophone (XIe siècle)",
+        "lien": "https://fr.wikipedia.org/wiki/Mahmud_al-Kashgari"
+      },
+      {
+        "nom": "Rebiya Kadeer",
+        "desc": "Militante ouïghoure des droits de l'homme",
+        "lien": "https://fr.wikipedia.org/wiki/Rebiya_Kadeer"
+      },
+      {
+        "nom": "Yusuf Has Hajib",
+        "desc": "Poète et philosophe turcophone (XIe siècle)",
+        "lien": "https://fr.wikipedia.org/wiki/Yusuf_Has_Hajib"
+      }
+    ],
+    "centre": [
+      86,
+      41.5
+    ],
+    "zoom": 4
+  },
+  "香港特别行政区": {
+    "nomChinois": "香港",
+    "pinyin": "Xiānggǎng",
+    "capitale": "Victoria (siège du gouvernement)",
+    "population": "7,5 M",
+    "superficie": "1 114 km²",
+    "description": "Région administrative spéciale depuis la rétrocession britannique de 1997, Hong Kong est l'une des places financières et commerciales majeures du monde. Sa skyline vertigineuse, ses marchés nocturnes et sa gastronomie en font une métropole unique, à la croisée de l'Orient et de l'Occident. Le principe « un pays, deux systèmes » encadre son autonomie.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_13.JPG",
+    "photoLegende": "Skyline de Hong Kong la nuit",
+    "photoLien": "https://fr.wikipedia.org/wiki/Hong_Kong",
+    "filtres": {
+      "administrative":        { "couleur": "#76349c" }
+     },   
+    "personnalites": [
+      {
+        "nom": "Bruce Lee",
+        "desc": "Acteur et maître des arts martiaux (1940–1973)",
+        "lien": "https://fr.wikipedia.org/wiki/Bruce_Lee"
+      },
+      {
+        "nom": "Jackie Chan",
+        "desc": "Acteur et cascadeur mondial",
+        "l澳门ien": "https://fr.wikipedia.org/wiki/Jackie_Chan"
+      },
+      {
+        "nom": "Anita Mui",
+        "desc": "« Madame de la chanson cantonaise » (1963–2003)",
+        "lien": "https://fr.wikipedia.org/wiki/Anita_Mui"
+      }
+    ],
+    "centre": [
+      114.17,
+      22.32
+    ],
+    "zoom": 10
+  },
+  "澳门特别行政区": {
+    "nomChinois": "澳门",
+    "pinyin": "Àomén",
+    "capitale": "Macao (ville-État)",
+    "population": "0,68 M",
+    "superficie": "33 km²",
+    "description": "Ancienne colonie portugaise rétrocédée à la Chine en 1999, Macao est la plus petite région administrative de la RPC. Son centre historique, mélange d'architecture baroque lusitanienne et de culture chinoise, est inscrit à l'UNESCO. Capitale mondiale du jeu, ses casinos génèrent des revenus supérieurs à ceux de Las Vegas.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Restos_de_la_Catedral_de_San_Pablo%2C_Macao%2C_2013-08-08%2C_DD_14.jpg",
+    "photoLegende": "Les ruines de Saint-Paul",
+    "photoLien": "https://fr.wikipedia.org/wiki/Macao",
+    "filtres": {
+      "administrative":        { "couleur": "#76349c" }
+     },   
+    "personnalites": [
+      {
+        "nom": "Luís de Camões",
+        "desc": "Poète portugais, aurait séjourné à Macao (1524–1580)",
+        "lien": "https://fr.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es"
+      },
+      {
+        "nom": "Stanley Ho",
+        "desc": "Roi des casinos, magnat de Macao (1921–2020)",
+        "lien": "https://fr.wikipedia.org/wiki/Stanley_Ho"
+      },
+      {
+        "nom": "Matteo Ricci",
+        "desc": "Jésuite missionnaire, passa par Macao (1552–1610)",
+        "lien": "https://fr.wikipedia.org/wiki/Matteo_Ricci"
+      }
+    ],
+    "centre": [
+      113.55,
+      22.2
+    ],
+    "zoom": 12
+  },
+  "台湾省": {
+    "nomChinois": "台灣",
+    "pinyin": "Táiwān",
+    "capitale": "Taipei",
+    "population": "23,6 M",
+    "superficie": "36 000 km²",
+    "description": "Île montagneuse au large des côtes du Fujian, Taïwan est administrée par la République de Chine depuis 1949. Taipei, sa capitale, abrite le musée national du Palais, qui conserve la plus grande collection d'art chinois impérial au monde. L'île est un géant mondial des semiconducteurs et de l'électronique avancée.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Taipei%2C_Taiwan_CBD_Skyline.jpg",
+    "photoLegende": "La tour Taipei 101",
+    "photoLien": "https://fr.wikipedia.org/wiki/Ta%C3%AFwan",
+    "filtres": {
+      "administrative":        { "couleur": "#001dbe" }
+     },   
+    "personnalites": [
+      {
+        "nom": "Chang Kai-shek",
+        "desc": "Président de la République de Chine (1887–1975)",
+        "lien": "https://fr.wikipedia.org/wiki/Tchang_Ka%C3%AF-chek"
+      },
+      {
+        "nom": "Teresa Teng",
+        "desc": "Chanteuse, icône de la pop asiatique (1953–1995)",
+        "lien": "https://fr.wikipedia.org/wiki/Teresa_Teng"
+      },
+      {
+        "nom": "Ang Lee",
+        "desc": "Réalisateur oscarisé (Tigre et Dragon, L'Odyssée de Pi)",
+        "lien": "https://fr.wikipedia.org/wiki/Ang_Lee"
+      }
+    ],
+    "centre": [
+      121,
+      23.7
+    ],
+    "zoom": 7
+  },
+  "上海市": {
+    "nomChinois": "上海",
+    "pinyin": "Shanghai",
+    "capitale": "Shanghai",
+    "population": "24,9 M",
+    "superficie": "6 340 km²",
+    "description": "Premier centre financier de Chine, Shanghai est une métropole mondiale rayonnante. Le Bund et le quartier de Pudong illustrent la coexistence d'une architecture coloniale et d'une skyline ultramoderne. Capitale mondiale de la mode et de la gastronomie.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/960px-Pudong_Shanghai_November_2017_panorama.jpg",
+    "photoLegende": "Panorama de Pudong",
+    "photoLien": "https://fr.wikipedia.org/wiki/Shanghai",
+    "filtres": {
+      "administrative":        { "couleur": "#77c459" }
+     },    
+    "personnalites": [
+      {
+        "nom": "Yuja Wang",
+        "desc": "Pianiste de renommée internationale",
+        "lien": "https://fr.wikipedia.org/wiki/Yuja_Wang"
+      },
+      {
+        "nom": "Zhou Xun",
+        "desc": "Actrice et chanteuse",
+        "lien": "https://fr.wikipedia.org/wiki/Zhou_Xun"
+      }
+    ],
+    "centre": [
+      121.5,
+      31.2
+    ],
+    "zoom": 9
+  }
+}

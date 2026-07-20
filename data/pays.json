@@ -1,0 +1,700 @@
+{
+  "Russia": {
+    "nom": "Россия",
+    "nomFr": "Russie",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Moscow_Kremlin%2C_views_from_Sofiyskaya_Embankment%2C_Nov_2025_03.jpg",
+    "photoLegende": "Le Kremlin, Moscou",
+    "photoLien": "https://fr.wikipedia.org/wiki/Russie",
+    "frontiere": "4 209 km — la plus longue frontière terrestre de la Chine",
+    "relations": {
+      "texte": "Excellentes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération stratégique poussée — exercices communs, ventes d'armements russes à la Chine",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de la Russie depuis 2010. Échanges en forte hausse depuis 2022.",
+    "universitaire": "Forte — Nombreux accords d'échange d'étudiants, instituts Confucius implantés en Russie, enseignement du mandarin en expansion.",
+    "perception": "Connue pour sa puissance militaire, son histoire soviétique, sa vodka et ses immenses étendues naturelles.",
+    "synthese": "La Russie et la Chine entretiennent un partenariat stratégique solide, renforcé depuis 2022. Les deux pays partagent une vision multipolaire du monde et coopèrent activement dans les domaines énergétique, militaire et diplomatique, tout en maintenant une certaine méfiance historique héritée des tensions sino-soviétiques du XXe siècle.",
+    "centre": [
+      100,
+      62
+    ],
+    "zoom": 3
+  },
+  "Mongolia": {
+    "nom": "Монгол улс",
+    "nomFr": "Mongolie",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/UB_downtown.jpg",
+    "photoLegende": "Oulan-Bator",
+    "photoLien": "https://fr.wikipedia.org/wiki/Mongolie",
+    "frontiere": "4 677 km",
+    "relations": {
+      "texte": "Cordiales",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Méfiance prudente — la Mongolie adopte une politique de neutralité entre Chine et Russie",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de la Mongolie, absorbant plus de 80 % de ses exportations (charbon, cuivre).",
+    "universitaire": "Modérée — bourses chinoises pour étudiants mongols, instituts Confucius à Oulan-Bator.",
+    "perception": "Connue pour son héritage nomade, Gengis Khan et ses steppes infinies.",
+    "synthese": "La Mongolie est économiquement très dépendante de la Chine mais tente de préserver son indépendance politique. Les relations sont globalement stables, avec une forte asymétrie économique en faveur de Pékin.",
+    "centre": [
+      103,
+      46
+    ],
+    "zoom": 4
+  },
+  "Kazakhstan": {
+    "nom": "Қазақстан",
+    "nomFr": "Kazakhstan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Trip_to_Astana_%282015-10-24%29_01.jpg",
+    "photoLegende": "Astana, la capitale",
+    "photoLien": "https://fr.wikipedia.org/wiki/Kazakhstan",
+    "frontiere": "1 783 km",
+    "relations": {
+      "texte": "Bonnes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération modérée dans le cadre de l'OCS (Organisation de coopération de Shanghai)",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial du Kazakhstan. Investissements massifs chinois via la Ceinture et la Route.",
+    "universitaire": "Modérée — présence d'instituts Confucius, étudiants kazakhs en Chine en hausse.",
+    "perception": "Connu pour ses immenses steppes, son pétrole et son cosmonautisme (Baïkonour).",
+    "synthese": "Relations économiques étroites dans le cadre des nouvelles Routes de la Soie. Le Kazakhstan cherche néanmoins à diversifier ses partenaires pour éviter une trop grande dépendance à Pékin.",
+    "centre": [
+      67,
+      48
+    ],
+    "zoom": 4
+  },
+  "Kyrgyzstan": {
+    "nom": "Кыргызстан",
+    "nomFr": "Kirghizistan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ala_Archa_Gorge.jpg",
+    "photoLegende": "Gorge d'Ala-Archa",
+    "photoLien": "https://fr.wikipedia.org/wiki/Kirghizistan",
+    "frontiere": "858 km",
+    "relations": {
+      "texte": "Cordiales",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération dans le cadre de l'OCS",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le principal partenaire commercial. Le Kirghizistan sert de point de transit pour les marchandises chinoises vers l'Asie centrale.",
+    "universitaire": "Limitée — quelques instituts Confucius, bourses chinoises disponibles.",
+    "perception": "Peu connu en Chine, associé aux montagnes du Tian Shan et aux populations nomades.",
+    "synthese": "Petit pays montagneux très dépendant économiquement de la Chine. Les migrations de travailleurs et la présence économique chinoise croissante suscitent une certaine méfiance locale malgré des relations officiellement cordiales.",
+    "centre": [
+      74,
+      41
+    ],
+    "zoom": 5
+  },
+  "Tajikistan": {
+    "nom": "Тоҷикистон",
+    "nomFr": "Tadjikistan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rudaki_Park%2C_Dushanbe%2C_Tajikistan_%28Cropped-wide%29.jpg",
+    "photoLegende": "Avenue Rudaki, Douchanbé",
+    "photoLien": "https://fr.wikipedia.org/wiki/Tadjikistan",
+    "frontiere": "477 km",
+    "relations": {
+      "texte": "Bonnes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération sécuritaire — la Chine a établi une base militaire au Tadjikistan",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er créancier du Tadjikistan. Forte présence d'entreprises chinoises dans les mines et infrastructures.",
+    "universitaire": "Limitée — quelques accords universitaires, bourses chinoises.",
+    "perception": "Peu connu, associé aux montagnes du Pamir et à l'histoire de la Route de la Soie.",
+    "synthese": "Le Tadjikistan est l'un des pays les plus dépendants de la Chine en Asie centrale, avec une dette importante envers Pékin. La présence militaire chinoise est un signe de l'approfondissement des liens sécuritaires.",
+    "centre": [
+      71,
+      38
+    ],
+    "zoom": 6
+  },
+  "Afghanistan": {
+    "nom": "افغانستان",
+    "nomFr": "Afghanistan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Modern_Kabul_-_panoramio.jpg",
+    "photoLegende": "Kaboul vue aérienne",
+    "photoLien": "https://fr.wikipedia.org/wiki/Afghanistan",
+    "frontiere": "76 km",
+    "relations": {
+      "texte": "Prudentes",
+      "badge": "badge-orange"
+    },
+    "militaire": {
+      "texte": "Méfiance — la Chine surveille la stabilité afghane pour protéger le Xinjiang",
+      "badge": "badge-orange"
+    },
+    "commerce": "Échanges très limités. La Chine s'intéresse aux importantes ressources minières afghanes (lithium, cuivre).",
+    "universitaire": "Inexistante ou très limitée en raison de l'instabilité politique.",
+    "perception": "Connu pour les conflits armés, les talibans et son histoire mouvementée.",
+    "synthese": "La Chine entretient des contacts pragmatiques avec le gouvernement taliban depuis 2021, motivée par la sécurité du Xinjiang et l'accès potentiel aux ressources minières. Les relations restent toutefois prudentes et complexes.",
+    "centre": [
+      67,
+      33
+    ],
+    "zoom": 5
+  },
+  "Pakistan": {
+    "nom": "پاکستان",
+    "nomFr": "Pakistan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_%281%29.jpg",
+    "photoLegende": "Mosquée Badshahi, Lahore",
+    "photoLien": "https://fr.wikipedia.org/wiki/Pakistan",
+    "frontiere": "438 km",
+    "relations": {
+      "texte": "Excellentes — « amitié plus haute que les montagnes »",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération très étroite — ventes d'armements, co-développement militaire",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial. Le Corridor économique Chine-Pakistan (CPEC) représente 62 milliards de dollars d'investissements.",
+    "universitaire": "Forte — nombreuses bourses chinoises, milliers d'étudiants pakistanais en Chine.",
+    "perception": "Connu comme l'allié le plus fidèle de la Chine dans la région, associé à l'islam et à la rivalité avec l'Inde.",
+    "synthese": "Le Pakistan est le partenaire stratégique le plus proche de la Chine. Leur alliance repose sur une convergence d'intérêts face à l'Inde et aux États-Unis. Le CPEC est le symbole d'une intégration économique et géopolitique profonde.",
+    "centre": [
+      69,
+      30
+    ],
+    "zoom": 5
+  },
+  "India": {
+    "nom": "भारत",
+    "nomFr": "Inde",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/1280px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg",
+    "photoLegende": "Taj Mahal, Agra",
+    "photoLien": "https://fr.wikipedia.org/wiki/Inde",
+    "frontiere": "3 488 km (contestée)",
+    "relations": {
+      "texte": "Tendues — rivalité géopolitique majeure",
+      "badge": "badge-rouge"
+    },
+    "militaire": {
+      "texte": "Affrontement potentiel — incidents armés récurrents à la frontière himalayenne (Galwan 2020)",
+      "badge": "badge-rouge"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de l'Inde malgré les tensions. Déficit commercial indien important.",
+    "universitaire": "Limitée — tensions politiques freinent les échanges académiques.",
+    "perception": "Connue pour le yoga, les épices, le cinéma Bollywood, et perçue comme le principal rival régional de la Chine.",
+    "synthese": "La relation sino-indienne est l'une des plus complexes au monde : deux géants démographiques partageant une longue frontière contestée. Malgré des échanges commerciaux importants, la rivalité géopolitique, les conflits frontaliers et la compétition pour l'influence régionale dominent la relation.",
+    "centre": [
+      80,
+      22
+    ],
+    "zoom": 4
+  },
+  "Nepal": {
+    "nom": "नेपाल",
+    "nomFr": "Népal",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+    "photoLegende": "L'Everest depuis le Tibet",
+    "photoLien": "https://fr.wikipedia.org/wiki/N%C3%A9pal",
+    "frontiere": "1 389 km",
+    "relations": {
+      "texte": "Cordiales",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Méfiance prudente — le Népal cherche à s'équilibrer entre Chine et Inde",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le 2e partenaire commercial. Investissements croissants dans les infrastructures népalaises.",
+    "universitaire": "Modérée — bourses chinoises, instituts Confucius à Katmandou.",
+    "perception": "Connu pour l'Everest, le trekking, le bouddhisme et les temples de Katmandou.",
+    "synthese": "Petit État tampon entre deux géants, le Népal navigue habilement entre Pékin et New Delhi. La Chine y investit massivement pour étendre son influence et contrebalancer la présence indienne traditionnelle.",
+    "centre": [
+      84,
+      28
+    ],
+    "zoom": 6
+  },
+  "Bhutan": {
+    "nom": "འབྲུག་ཡུལ།",
+    "nomFr": "Bhoutan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Takstang_Monastery.jpg",
+    "photoLegende": "Monastère de Taktsang",
+    "photoLien": "https://fr.wikipedia.org/wiki/Bhoutan",
+    "frontiere": "477 km (contestée)",
+    "relations": {
+      "texte": "Tendues — aucune relation diplomatique officielle",
+      "badge": "badge-rouge"
+    },
+    "militaire": {
+      "texte": "Méfiance — disputes frontalières non résolues, pression chinoise sur Doklam",
+      "badge": "badge-rouge"
+    },
+    "commerce": "Échanges très limités, pas de relations commerciales directes significatives.",
+    "universitaire": "Inexistante — absence de relations diplomatiques formelles.",
+    "perception": "Peu connu, associé au bonheur national brut, aux monastères bouddhistes et à ses paysages himalayens préservés.",
+    "synthese": "Le Bhoutan est le seul pays frontalier avec lequel la Chine n'entretient pas de relations diplomatiques formelles. La dispute frontalière de Doklam en 2017 a mis en lumière les enjeux stratégiques de cette relation triangulaire Bhoutan-Chine-Inde.",
+    "centre": [
+      90,
+      27
+    ],
+    "zoom": 7
+  },
+  "Bangladesh": {
+    "nom": "বাংলাদেশ",
+    "nomFr": "Bangladesh",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Skyline_Dhaka_%28112892099%29.jpeg",
+    "photoLegende": "Skyline de Dacca",
+    "photoLien": "https://fr.wikipedia.org/wiki/Bangladesh",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Bonnes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération — ventes d'armements chinois, entraînements conjoints",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial du Bangladesh. Importations massives de textiles et équipements.",
+    "universitaire": "Modérée — bourses chinoises en hausse, instituts Confucius à Dacca.",
+    "perception": "Connu pour son industrie textile, les inondations du delta du Gange et une population très dense.",
+    "synthese": "La Chine est devenue un partenaire économique et militaire de premier plan pour le Bangladesh, dans le cadre de la compétition sino-indienne pour l'influence en Asie du Sud.",
+    "centre": [
+      90,
+      24
+    ],
+    "zoom": 6
+  },
+  "Myanmar": {
+    "nom": "မြန်မာ",
+    "nomFr": "Myanmar",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bagan%2C_Myanmar%2C_Sulamani_Temple_2.jpg",
+    "photoLegende": "Temples de Bagan",
+    "photoLien": "https://fr.wikipedia.org/wiki/Birmanie",
+    "frontiere": "2 129 km",
+    "relations": {
+      "texte": "Cordiales mais complexes",
+      "badge": "badge-orange"
+    },
+    "militaire": {
+      "texte": "Coopération — la Chine soutient la junte militaire depuis le coup d'État de 2021",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial et investisseur. Gazoducs et oléoducs stratégiques traversent le pays.",
+    "universitaire": "Limitée — quelques accords universitaires, présence d'instituts Confucius.",
+    "perception": "Connu pour les pagodes de Bagan, la junte militaire et son rôle dans le trafic de drogues de synthèse.",
+    "synthese": "Le Myanmar est stratégiquement crucial pour la Chine qui y cherche un accès à l'océan Indien. Pékin soutient la junte au pouvoir depuis 2021 malgré les critiques internationales, tout en gérant une relation complexe avec les groupes ethniques armés à la frontière.",
+    "centre": [
+      96,
+      19
+    ],
+    "zoom": 5
+  },
+  "Laos": {
+    "nom": "ລາວ",
+    "nomFr": "Laos",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg/1280px-Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg",
+    "photoLegende": "Luang Prabang",
+    "photoLien": "https://fr.wikipedia.org/wiki/Laos",
+    "frontiere": "475 km",
+    "relations": {
+      "texte": "Excellentes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération — partage idéologique entre les deux partis communistes au pouvoir",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est de loin le 1er partenaire et investisseur. Le chemin de fer Laos-Chine (2021) renforce l'intégration.",
+    "universitaire": "Modérée — nombreuses bourses chinoises, instituts Confucius à Vientiane.",
+    "perception": "Peu connu, associé aux temples bouddhistes, au Mékong et à la nature préservée.",
+    "synthese": "Le Laos est l'un des pays les plus proches de la Chine, liés par une idéologie communiste commune et une forte dépendance économique. Le chemin de fer sino-laotien inauguré en 2021 symbolise cette intégration croissante.",
+    "centre": [
+      103,
+      18
+    ],
+    "zoom": 5
+  },
+  "Vietnam": {
+    "nom": "Việt Nam",
+    "nomFr": "Viêt Nam",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ha_Long_Bay_on_a_sunny_day.jpg/1280px-Ha_Long_Bay_on_a_sunny_day.jpg",
+    "photoLegende": "Baie d'Ha Long",
+    "photoLien": "https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam",
+    "frontiere": "1 297 km",
+    "relations": {
+      "texte": "Tendues — rivalité historique et dispute en mer de Chine",
+      "badge": "badge-rouge"
+    },
+    "militaire": {
+      "texte": "Méfiance — guerre sino-vietnamienne de 1979, tensions en mer de Chine du Sud",
+      "badge": "badge-rouge"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial du Viêt Nam, mais le déficit commercial vietnamien est source de tensions.",
+    "universitaire": "Modérée — échanges académiques existent malgré les tensions politiques.",
+    "perception": "Connu pour la guerre du Vietnam, la cuisine (pho, banh mi), la baie d'Ha Long et une résistance historique à la domination chinoise.",
+    "synthese": "La relation sino-vietnamienne est paradoxale : deux États communistes partageant une idéologie mais entretenant une rivalité historique profonde. La dispute en mer de Chine du Sud sur les îles Paracels et Spratleys reste la principale source de tension.",
+    "centre": [
+      106,
+      16
+    ],
+    "zoom": 5
+  },
+  "Thailand": {
+    "nom": "ประเทศไทย",
+    "nomFr": "Thaïlande",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%285%29.jpg/1280px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%285%29.jpg",
+    "photoLegende": "Grand Palais de Bangkok",
+    "photoLien": "https://fr.wikipedia.org/wiki/Tha%C3%AFlande",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Bonnes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération croissante — exercices militaires conjoints, achats d'armements chinois",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de la Thaïlande. Le tourisme chinois est une source majeure de revenus.",
+    "universitaire": "Forte — diaspora chinoise très intégrée, instituts Confucius, nombreux étudiants thaïlandais en Chine.",
+    "perception": "Connue pour ses temples bouddhistes, la cuisine thaïe, les plages et la culture de la fête.",
+    "synthese": "La Thaïlande entretient d'excellentes relations avec la Chine, renforcées par une importante diaspora chinoise (les Sino-Thaïlandais représentent 14% de la population). Bangkok s'est progressivement rapprochée de Pékin, notamment après le coup d'État de 2014.",
+    "centre": [
+      101,
+      15
+    ],
+    "zoom": 5
+  },
+  "Cambodia": {
+    "nom": "កម្ពុជា",
+    "nomFr": "Cambodge",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg/1280px-Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+    "photoLegende": "Angkor Vat",
+    "photoLien": "https://fr.wikipedia.org/wiki/Cambodge",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Excellentes — allié privilégié de la Chine en ASEAN",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération étroite — exercices conjoints, base navale controversée à Ream",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial et investisseur. Dépendance économique très forte.",
+    "universitaire": "Forte — bourses chinoises massives, instituts Confucius, enseignement du mandarin en expansion.",
+    "perception": "Connu pour Angkor Vat, le génocide khmer rouge et une reconstruction difficile.",
+    "synthese": "Le Cambodge est souvent qualifié de satellite diplomatique de la Chine en ASEAN. Phnom Penh bloque régulièrement les déclarations communes de l'ASEAN critiquant Pékin. En échange, la Chine investit massivement dans le pays.",
+    "centre": [
+      105,
+      12
+    ],
+    "zoom": 6
+  },
+  "Malaysia": {
+    "nom": "Malaysia",
+    "nomFr": "Malaisie",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kuala_Lumpur_City_View.jpg",
+    "photoLegende": "Tours Petronas, Kuala Lumpur",
+    "photoLien": "https://fr.wikipedia.org/wiki/Malaisie",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Cordiales",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Méfiance — disputes en mer de Chine du Sud mais dialogue maintenu",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de la Malaisie depuis 2009. Investissements importants.",
+    "universitaire": "Forte — diaspora chinoise de 23%, instituts Confucius, universités chinoises présentes en Malaisie.",
+    "perception": "Connue pour les Tours Petronas, la diversité ethnique (Malais, Chinois, Indiens) et sa cuisine.",
+    "synthese": "La relation sino-malaisienne est pragmatique et économiquement dense. La forte diaspora chinoise facilite les échanges commerciaux. Les tensions en mer de Chine du Sud sont gérées diplomatiquement, Kuala Lumpur préférant le dialogue à la confrontation.",
+    "centre": [
+      110,
+      4
+    ],
+    "zoom": 5
+  },
+  "North Korea": {
+    "nom": "조선민주주의인민공화국",
+    "nomFr": "Corée du Nord",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Panoramic_view_from_Juche_Tower.jpg/1280px-Panoramic_view_from_Juche_Tower.jpg",
+    "photoLegende": "Pyongyang",
+    "photoLien": "https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Nord",
+    "frontiere": "1 416 km",
+    "relations": {
+      "texte": "Spéciales — alliance idéologique et stratégique",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Alliance — traité de défense mutuelle, soutien tacite au programme nucléaire nord-coréen",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine représente plus de 90% du commerce extérieur nord-coréen. Bouée de sauvetage économique.",
+    "universitaire": "Limitée — échanges très contrôlés, quelques étudiants nord-coréens dans les universités chinoises.",
+    "perception": "Connu pour son régime totalitaire, son programme nucléaire et l'isolement de sa population.",
+    "synthese": "La Chine est le seul véritable allié de la Corée du Nord et son principal soutien économique. Pékin tolère le programme nucléaire de Pyongyang car il sert de tampon stratégique face aux États-Unis, tout en craignant une instabilité qui provoquerait un afflux de réfugiés.",
+    "centre": [
+      127,
+      40
+    ],
+    "zoom": 6
+  },
+  "South Korea": {
+    "nom": "대한민국",
+    "nomFr": "Corée du Sud",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lotte_World_Tower_%2822074455581%29.jpg/1280px-Lotte_World_Tower_%2822074455581%29.jpg",
+    "photoLegende": "Séoul au coucher du soleil",
+    "photoLien": "https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Tendues depuis 2017 (THAAD)",
+      "badge": "badge-orange"
+    },
+    "militaire": {
+      "texte": "Méfiance — présence américaine en Corée du Sud perçue comme menaçante par Pékin",
+      "badge": "badge-rouge"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial. Crise économique en Corée du Sud lors des sanctions chinoises de 2017.",
+    "universitaire": "Forte — 2e pays d'origine des étudiants étrangers en Chine, K-pop et culture coréenne populaires en Chine.",
+    "perception": "Connue pour la K-pop (BTS, Blackpink), les dramas coréens, Samsung, et la cuisine (kimchi, bibimbap).",
+    "synthese": "Relations ambivalentes entre deux économies complémentaires mais des visions géopolitiques opposées. L'installation du système antimissile THAAD en 2017 a profondément endommagé les relations, et la Corée du Sud cherche un difficile équilibre entre ses alliances américaines et sa dépendance économique à la Chine.",
+    "centre": [
+      128,
+      36
+    ],
+    "zoom": 6
+  },
+  "Japan": {
+    "nom": "日本",
+    "nomFr": "Japon",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Series-N700a-Mt.Fuji.jpg/1280px-Series-N700a-Mt.Fuji.jpg",
+    "photoLegende": "Le Mont Fuji et le Shinkansen",
+    "photoLien": "https://fr.wikipedia.org/wiki/Japon",
+    "frontiere": "Aucune frontière terrestre directe (mer)",
+    "relations": {
+      "texte": "Tendues — rivalry historique et dispute territoriale",
+      "badge": "badge-rouge"
+    },
+    "militaire": {
+      "texte": "Méfiance — alliance américano-japonaise, dispute des îles Senkaku/Diaoyu",
+      "badge": "badge-rouge"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial du Japon. Interdépendance économique majeure malgré les tensions.",
+    "universitaire": "Forte — nombreux échanges académiques, japonais très étudiés en Chine et vice-versa.",
+    "perception": "Connu pour les mangas, l'électronique (Sony, Toyota), les samouraïs, mais aussi les atrocités de la Seconde Guerre mondiale (massacre de Nankin).",
+    "synthese": "La relation sino-japonaise est l'une des plus importantes et des plus complexes d'Asie. Une interdépendance économique profonde coexiste avec une rivalité historique (guerre 1937-1945) et des tensions actuelles sur les îles Senkaku/Diaoyu et la mémoire de la Seconde Guerre mondiale.",
+    "centre": [
+      138,
+      37
+    ],
+    "zoom": 5
+  },
+  "Philippines": {
+    "nom": "Pilipinas",
+    "nomFr": "Philippines",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chocolate_Hills_overview.JPG/1280px-Chocolate_Hills_overview.JPG",
+    "photoLegende": "Chocolate Hills, Bohol",
+    "photoLien": "https://fr.wikipedia.org/wiki/Philippines",
+    "frontiere": "Aucune frontière terrestre directe (mer)",
+    "relations": {
+      "texte": "Tendues — dispute en mer de Chine du Sud",
+      "badge": "badge-rouge"
+    },
+    "militaire": {
+      "texte": "Affrontement — incidents répétés en mer de Chine du Sud, alliance américaine des Philippines",
+      "badge": "badge-rouge"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial des Philippines. Tension entre dépendance économique et disputes maritimes.",
+    "universitaire": "Limitée — tensions politiques freinent les échanges, diaspora chinoise ancienne aux Philippines.",
+    "perception": "Connues pour leurs plages paradisiaques, le basket-ball, une forte culture américaine et catholique.",
+    "synthese": "Les Philippines sont au cœur du contentieux de la mer de Chine du Sud. Malgré une sentence arbitrale internationale de 2016 favorable à Manille, Pékin refuse de la reconnaître. L'alliance militaire américano-philippine est perçue comme une menace directe par la Chine.",
+    "centre": [
+      122,
+      12
+    ],
+    "zoom": 5
+  },
+  "Uzbekistan": {
+    "nom": "Oʻzbekiston",
+    "nomFr": "Ouzbékistan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Registan_01.jpg/1280px-Registan_01.jpg",
+    "photoLegende": "Registan, Samarcande",
+    "photoLien": "https://fr.wikipedia.org/wiki/Ouzb%C3%A9kistan",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Bonnes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération dans le cadre de l'OCS",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial. Investissements via la Ceinture et la Route (textiles, gaz).",
+    "universitaire": "Modérée — instituts Confucius à Tachkent, bourses chinoises en hausse.",
+    "perception": "Connu pour Samarcande et la Route de la Soie historique, le coton et l'architecture islamique.",
+    "synthese": "L'Ouzbékistan est un partenaire important de la Chine en Asie centrale, notamment grâce aux nouvelles Routes de la Soie. Tachkent cherche à diversifier ses partenaires tout en développant ses échanges économiques avec Pékin.",
+    "centre": [
+      63,
+      41
+    ],
+    "zoom": 5
+  },
+  "Turkmenistan": {
+    "nom": "Türkmenistan",
+    "nomFr": "Turkménistan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Darvasa_gas_crater_panorama_crop.jpg/1280px-Darvasa_gas_crater_panorama_crop.jpg",
+    "photoLegende": "Cratère de gaz de Darvaza",
+    "photoLien": "https://fr.wikipedia.org/wiki/Turkm%C3%A9nistan",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Cordiales",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Neutralité — le Turkménistan est officiellement neutre",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le quasi-monopole pour les exportations de gaz naturel turkménistanis via le gazoduc Asie centrale–Chine.",
+    "universitaire": "Limitée — pays très fermé, échanges académiques réduits.",
+    "perception": "Très peu connu, associé au gaz naturel, aux chevaux Akhal-Teke et à un régime autoritaire fermé.",
+    "synthese": "La relation est quasi-exclusivement fondée sur les hydrocarbures. Le Turkménistan dépend massivement de la Chine pour l'export de son gaz, faisant de Pékin son partenaire économique incontournable malgré la politique de neutralité officielle du pays.",
+    "centre": [
+      59,
+      39
+    ],
+    "zoom": 5
+  },
+  "Singapore": {
+    "nom": "新加坡",
+    "nomFr": "Singapour",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Gardens_by_the_Bay%2C_Singapore_4.jpg/1280px-The_Gardens_by_the_Bay%2C_Singapore_4.jpg",
+    "photoLegende": "Garden by the bay",
+    "photoLien": "https://fr.wikipedia.org/wiki/Singapour",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Excellentes",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération modérée — Singapour maintient un équilibre entre Chine et États-Unis",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de Singapour. La cité-État est le 1er investisseur étranger en Chine.",
+    "universitaire": "Très forte — 74% de la population est d'origine chinoise, mandarin langue officielle, nombreux accords entre universités (NUS, NTU et universités chinoises).",
+    "perception": "Connue pour sa propreté, sa discipline, son efficacité économique et comme modèle de développement souvent cité par les dirigeants chinois.",
+    "synthese": "Singapour entretient l'une des relations les plus étroites avec la Chine parmi les pays non-communistes. La majorité sinophone de sa population et son rôle de hub financier asiatique en font un partenaire économique privilégié. Singapour joue néanmoins un rôle d'équilibriste diplomatique entre Pékin et Washington."
+  },
+  "台湾省": {
+    "nom": "臺灣 / Taiwan",
+    "nomFr": "Taïwan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Chiang_Kai-shek_Memorial_Hall_2009_2_amk.JPG",
+    "photoLegende": "Mémorial de Tchang Kaï-chek",
+    "photoLien": "https://fr.wikipedia.org/wiki/Ta%C3%AFwan",
+    "frontiere": "180 km de détroit de Taïwan — aucune frontière terrestre",
+    "relations": {
+      "texte": "Hostiles — la RPC considère Taïwan comme une province rebelle",
+      "badge": "badge-rouge"
+    },
+    "militaire": {
+      "texte": "Affrontement potentiel — la RPC n'exclut pas le recours à la force, exercices militaires chinois répétés autour de l'île",
+      "badge": "badge-rouge"
+    },
+    "filtres": {
+      "administrative":        { "couleur": "#001dbe" }
+     },   
+    "commerce": "La Chine continentale est le 1er partenaire commercial de Taïwan malgré les tensions. Les semi-conducteurs taïwanais (TSMC) sont stratégiquement cruciaux pour Pékin.",
+    "universitaire": "Limitée et politiquement sensible — échanges d'étudiants réduits depuis 2016, langue et culture communes facilitent néanmoins les contacts informels.",
+    "perception": "Perçue en Chine continentale comme une province séparatiste à réunifier, tout en étant admirée pour son industrie technologique et ses semi-conducteurs.",
+    "synthese": "La question taïwanaise est le sujet le plus sensible de la politique étrangère chinoise. Pékin revendique la souveraineté sur l'île au nom du principe 'une seule Chine' et refuse catégoriquement toute déclaration d'indépendance formelle. Taïwan, dirigée par un gouvernement démocratique, bénéficie du soutien militaire américain via le Taiwan Relations Act de 1979. Le détroit de Taïwan est considéré comme l'un des points de friction les plus dangereux au monde.",
+    "centre": [
+      121,
+      23.7
+    ],
+    "zoom": 7
+  },
+  "Iran": {
+    "nom": "ایران",
+    "nomFr": "Iran",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isfahan_Royal_Mosque_general_%28retouched%29.jpg/1280px-Isfahan_Royal_Mosque_general_%28retouched%29.jpg",
+    "photoLegende": "Mosquée de l'Imam, Ispahan",
+    "photoLien": "https://fr.wikipedia.org/wiki/Iran",
+    "frontiere": "Aucune frontière terrestre directe",
+    "relations": {
+      "texte": "Excellentes — partenariat stratégique renforcé",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Coopération — accord de partenariat 25 ans signé en 2021, ventes d'armements et drones iraniens",
+      "badge": "badge-vert"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de l'Iran, achetant massivement le pétrole iranien malgré les sanctions occidentales.",
+    "universitaire": "Modérée — instituts Confucius à Téhéran, échanges académiques en hausse dans les domaines scientifiques et technologiques.",
+    "perception": "Connu pour la civilisation perse millénaire, les tapis, le safran, le programme nucléaire et la Révolution islamique de 1979.",
+    "synthese": "La Chine et l'Iran ont signé en 2021 un accord de coopération stratégique sur 25 ans, portant sur des investissements chinois massifs en échange d'un accès privilégié au pétrole iranien. Cette alliance de circonstance unit deux pays sous pression occidentale et souhaitant un ordre mondial multipolaire.",
+    "centre": [
+      53,
+      32
+    ],
+    "zoom": 5
+  },
+  "Brunei": {
+    "nom": "Brunei Darussalam",
+    "nomFr": "Brunei",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg/1280px-Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+    "photoLegende": "Mosquée Omar Ali Saifuddien",
+    "photoLien": "https://fr.wikipedia.org/wiki/Brunei",
+    "frontiere": "Aucune frontière terrestre directe (mer)",
+    "relations": {
+      "texte": "Cordiales",
+      "badge": "badge-vert"
+    },
+    "militaire": {
+      "texte": "Méfiance — Brunei revendique certains récifs en mer de Chine du Sud mais reste discret",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de Brunei. Le pétrole et le gaz naturel représentent l'essentiel des exportations bruniennes vers la Chine.",
+    "universitaire": "Limitée — petite communauté chinoise ancienne au Brunei (~10% de la population), quelques accords universitaires.",
+    "perception": "Très peu connu en Chine, associé au pétrole, à la richesse du sultanat et à la forêt tropicale de Bornéo.",
+    "synthese": "Malgré une revendication discrète en mer de Chine du Sud, Brunei adopte une politique pragmatique et non-conflictuelle avec Pékin. Le sultanat préfère le dialogue économique à la confrontation, et la Chine est son principal partenaire commercial.",
+    "centre": [
+      114.7,
+      4.5
+    ],
+    "zoom": 8
+  },
+  "Indonesia": {
+    "nom": "Indonesia",
+    "nomFr": "Indonésie",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/1280px-Borobudur-Nothwest-view.jpg",
+    "photoLegende": "Temple de Borobudur",
+    "photoLien": "https://fr.wikipedia.org/wiki/Indon%C3%A9sie",
+    "frontiere": "Aucune frontière terrestre directe (mer)",
+    "relations": {
+      "texte": "Cordiales mais prudentes",
+      "badge": "badge-orange"
+    },
+    "militaire": {
+      "texte": "Méfiance — tensions en mer de Natuna (revendiquée partiellement par la Chine)",
+      "badge": "badge-orange"
+    },
+    "commerce": "La Chine est le 1er partenaire commercial de l'Indonésie. Investissements massifs dans le nickel et les infrastructures.",
+    "universitaire": "Modérée — diaspora chinoise de 3%, instituts Confucius à Jakarta et Surabaya.",
+    "perception": "Connue pour Bali, le batik, la diversité religieuse et d'être le plus grand pays à majorité musulmane du monde.",
+    "synthese": "L'Indonésie, plus grand archipel du monde, entretient des relations pragmatiques avec la Chine. Jakarta reste prudente face aux ambitions chinoises en mer de Chine du Sud qui empiètent sur sa zone économique exclusive autour des îles Natuna, tout en accueillant massivement les investissements chinois.",
+    "centre": [
+      118,
+      -5
+    ],
+    "zoom": 4
+  }
+}
