@@ -1,5 +1,7 @@
     const carte = echarts.init(document.getElementById('carte'));
 
+    const BASE = location.hostname === 'localhost' ? '' : '/ma-carte';
+
     const ZOOM_INITIAL = 4.0;
     const CENTRE       = [105, 35];
     // Limites de déplacement (longitude min/max, latitude min/max)
@@ -93,8 +95,8 @@
     Promise.all([
       fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson').then(r => r.json()),
       fetch('https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json').then(r => r.json()),
-      fetch('data/provinces.json').then(r => r.json()),
-      fetch('data/pays.json').then(r => r.json())
+      fetch(`${BASE}/data/provinces.json`).then(r => r.json()),
+      fetch(`${BASE}/data/pays.json`).then(r => r.json())
     ])
     .then(([worldJson, chinaData, provData, paysData]) => {
       chinaProvincesJson = chinaData;
